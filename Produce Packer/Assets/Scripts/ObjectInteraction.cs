@@ -135,7 +135,7 @@ namespace ControllerSelection
             //Wrong sort movement:
             if (death && targetIsPointer)
             {
-                if (transform.position.z >= target.transform.position.z)
+                if (transform.position.z >= target.transform.position.z - 0.5f)
                 {
                     target = chuteExit;
                     targetIsPointer = false;
@@ -243,7 +243,6 @@ namespace ControllerSelection
             gameObject.GetComponentInChildren<Rigidbody>().isKinematic = true;
             death = true;
             target = GameObject.Find("ChuteEntry");
-            targetIsPointer = false;
             chuteExit = GameObject.Find("ChuteExit");
         }
     }

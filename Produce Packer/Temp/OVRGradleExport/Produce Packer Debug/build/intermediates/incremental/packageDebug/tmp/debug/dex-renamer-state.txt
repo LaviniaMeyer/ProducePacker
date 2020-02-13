@@ -1,7 +1,7 @@
-#Thu Feb 13 13:30:29 AEDT 2020
-base.0=D\:\\Uni\\Internship\\Liminal VR\\Unity Project\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Fri Feb 14 08:33:57 AEDT 2020
+base.0=D\:\\Github\\LiminalVR\\ProducePacker\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\Uni\\Internship\\Liminal VR\\Unity Project\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.1=D\:\\Github\\LiminalVR\\ProducePacker\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\build\\intermediates\\transforms\\dexMerger\\debug\\1

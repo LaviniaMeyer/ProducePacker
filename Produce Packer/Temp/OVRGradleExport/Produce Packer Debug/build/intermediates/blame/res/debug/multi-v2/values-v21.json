@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Uni\\Internship\\Liminal VR\\Unity Project\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\Github\\LiminalVR\\ProducePacker\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\c989c846538f3474eba0b6b285fe756d\\res\\values-v21\\values.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\19022c3261e33f18cdb51ee704b056a0\\res\\values-v21\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Uni\\Internship\\Liminal VR\\Unity Project\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\src\\main\\res\\values-v21\\styles.xml",
+                    "source": "D:\\Github\\LiminalVR\\ProducePacker\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\src\\main\\res\\values-v21\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",

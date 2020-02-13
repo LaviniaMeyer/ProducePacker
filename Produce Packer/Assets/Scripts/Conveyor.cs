@@ -6,6 +6,7 @@ public class Conveyor : MonoBehaviour
 {
     private List<GameObject> colliding = new List<GameObject>();
     public float speed = 0.03f;
+    public GameObject poofParticle;
 
     private void OnCollisionEnter(Collision collision)
     {
@@ -35,5 +36,16 @@ public class Conveyor : MonoBehaviour
     private void OnCollisionExit(Collision collision)
     {
         colliding.Remove(collision.gameObject);
+    }
+
+    public void DestroyAll()
+    {
+        for (int i = 0; i < colliding.Count; i++)
+        {
+            Vector3 pos = colliding[i].transform.position;
+            Destroy(colliding[i].transform.root.gameObject);
+            Instantiate(poofParticle, pos, poofParticle.transform.rotation);
+        }
+        colliding.Clear();
     }
 }

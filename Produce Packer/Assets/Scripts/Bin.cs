@@ -50,6 +50,24 @@ public class Bin : MonoBehaviour
         }
         else
             OtherCollision(collision.gameObject);
+
+        if (collision.gameObject.tag == "Interactable" && thisBin == BinType.Rubbish)
+        {
+            GameObject.Find("Conveyor1").GetComponent<Conveyor>().DestroyAll();
+            GameObject.Find("Conveyor2").GetComponent<Conveyor>().DestroyAll();
+            score.DecreaseDifficulty();
+        }
+    }
+
+    private void OnCollisionStay(Collision collision)
+    {
+        if (collision.gameObject.tag == "Interactable" && thisBin == BinType.Rubbish)
+        {
+            GameObject.Find("Conveyor1").GetComponent<Conveyor>().DestroyAll();
+            GameObject.Find("Conveyor2").GetComponent<Conveyor>().DestroyAll();
+            score.DecreaseDifficulty();
+            Destroy(collision.transform.root.gameObject);
+        }
     }
 
     public void CorrectSort()

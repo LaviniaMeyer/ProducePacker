@@ -48,7 +48,7 @@ public class progressManager : MonoBehaviour
         }
     }
 
-    private void DecreaseDifficulty()
+    public void DecreaseDifficulty()
     {
         if (currentDifficulty > 1)
         {
@@ -60,8 +60,8 @@ public class progressManager : MonoBehaviour
 
     public void ResetDifficulty()
     {
-        currentDifficulty = 1;
-        currentSpeedMultiplier = minSpeedMultiplier;
+        currentDifficulty = 4;
+        currentSpeedMultiplier = 0.5f;
         isFirstRound = true;
         UpdateSpeeds();
     }
@@ -97,6 +97,10 @@ public class progressManager : MonoBehaviour
         if (!noDrop)
         {
             DecreaseDifficulty();
+            DecreaseDifficulty();
+        }
+        else
+        {
             DecreaseDifficulty();
         }
 

@@ -1,10 +1,44 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Uni\\Internship\\Liminal VR\\Unity Project\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Github\\LiminalVR\\ProducePacker\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\c989c846538f3474eba0b6b285fe756d\\res\\values\\values.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\c574dbf8b3acd13f2709f3826853c568\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "4467",
+                        "endColumns": "43",
+                        "endOffsets": "4506"
+                    }
+                },
+                {
+                    "source": "D:\\Github\\LiminalVR\\ProducePacker\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "108"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "391",
+                        "endColumns": "57",
+                        "endOffsets": "444"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\19022c3261e33f18cdb51ee704b056a0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,5,8,9,10,13,16,19,22,25,28,31,34,37,40,43,46,50,54,57,60,61,64,67,70,73,76,79,84,89,93,101",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -23,41 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\07c63d877ee11bc5fca8ca69bfad13c7\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "2",
-                        "startOffsets": "53",
-                        "endColumns": "41",
-                        "endOffsets": "92"
-                    },
-                    "to": {
-                        "startLines": "56",
-                        "startColumns": "4",
-                        "startOffsets": "4467",
-                        "endColumns": "43",
-                        "endOffsets": "4506"
-                    }
-                },
-                {
-                    "source": "D:\\Uni\\Internship\\Liminal VR\\Unity Project\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "2",
-                        "startOffsets": "55",
-                        "endColumns": "55",
-                        "endOffsets": "108"
-                    },
-                    "to": {
-                        "startLines": "7",
-                        "startColumns": "4",
-                        "startOffsets": "391",
-                        "endColumns": "57",
-                        "endOffsets": "444"
-                    }
-                },
-                {
-                    "source": "D:\\Uni\\Internship\\Liminal VR\\Unity Project\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Github\\LiminalVR\\ProducePacker\\Produce Packer\\Temp\\OVRGradleExport\\Produce Packer Debug\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",
