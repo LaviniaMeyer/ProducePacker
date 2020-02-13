@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2277352725
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba0ab9b9e9051fcbca7fa1c43f9e5dd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 677a1d6a6e8c5d2da1d9d0fadde392d8
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Packages/com.unity.probuilder/Content/Shader/StandardVertexColor.shader
+- Assets/Imported/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap Extended.shader
+Dependencies:
+- D:/Uni/Internship/Liminal VR/Unity Project/Produce Packer/OVRAssetBundles/OVRMasterBundle/asset_png0

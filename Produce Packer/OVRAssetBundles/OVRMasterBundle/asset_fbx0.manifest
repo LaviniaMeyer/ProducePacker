@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1094355410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d855e7498624a861bef4ee2e9e84f7b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ebb4c2859e0504b83cfc3d6e33aac92c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Imported/FoodPack/Tomato.fbx
+- Assets/Imported/TreePack/CommonTree_Dead_3.fbx
+- Assets/Imported/FoodPack/FishBone.fbx
+- Assets/Imported/Lowpoly Flowers/flower01.fbx
+- Assets/Imported/Lowpoly Flowers/flower05.fbx
+- Assets/Imported/Lowpoly Flowers/flower03.fbx
+- Assets/Imported/FoodPack/Soda.fbx
+- Assets/Imported/FoodPack/Apple.fbx
+- Assets/Imported/FoodPack/Pepper_Red.fbx
+- Assets/Imported/FoodPack/Turnip.fbx
+- Assets/Imported/FoodPack/Egg_Whole.fbx
+- Assets/Imported/FoodPack/Lettuce_Whole.fbx
+- Assets/Imported/FoodPack/Pumpkin.fbx
+- Assets/Imported/Lowpoly Flowers/flower04.fbx
+- Assets/Imported/Lowpoly Flowers/flower02.fbx
+- Assets/Imported/FoodPack/Carrot.fbx
+Dependencies:
+- D:/Uni/Internship/Liminal VR/Unity Project/Produce Packer/OVRAssetBundles/OVRMasterBundle/asset_mat0

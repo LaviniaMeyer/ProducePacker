@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3661281549
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dac1b93d9e819f45de7ce76e5ded8864
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9704b28e902e86d85ac8541796c9e339
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/Beige.mat
+- Assets/Materials/Orange.mat
+- Assets/Materials/White.mat
+- Assets/Materials/Pale Green.mat
+- Assets/Imported/Lowpoly Flowers/Materials/blinn2.mat
+- Assets/Imported/Lowpoly Flowers/Materials/blinn15.mat
+- Assets/Materials/Wood.mat
+- Assets/Materials/Pale Pink 2.mat
+- Assets/Imported/Lowpoly Flowers/Materials/blinn1.mat
+- Packages/com.unity.probuilder/Content/Resources/Materials/ProBuilderDefault.mat
+- Assets/Materials/Brown.mat
+- Assets/Materials/Dark Green.mat
+- Assets/Materials/Dark Brown.mat
+- Assets/Materials/Darker Red.mat
+- Assets/Materials/Light Yellow.mat
+- Assets/Imported/Lowpoly Flowers/Materials/blinn16.mat
+- Assets/Materials/Metal.mat
+- Assets/Imported/Lowpoly Flowers/Materials/blinn13.mat
+- Assets/Materials/Dark Red.mat
+- Assets/Materials/temp/walls.mat
+- Assets/Imported/Lowpoly Flowers/Materials/blinn14.mat
+- Assets/Imported/Lowpoly Flowers/Materials/blinn0.mat
+- Assets/Imported/Lowpoly Flowers/Materials/blinn12.mat
+- Assets/Imported/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap
+  Extended.mat
+Dependencies:
+- D:/Uni/Internship/Liminal VR/Unity Project/Produce Packer/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/Uni/Internship/Liminal VR/Unity Project/Produce Packer/OVRAssetBundles/OVRMasterBundle/asset_shader0

@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3918682320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d33f4c7e4f62636fb5bb2160d8c283d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36b68c5fb97f98a59a749b7e50d52df0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8233d90336aea43098adf6dbabd606a2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Items/Flowers/flower04.prefab
+- Assets/Prefabs/Items/Trash/FishBone.prefab
+- Assets/Prefabs/Items/Food/Carrot.prefab
+- Assets/Prefabs/Items/Food/Apple.prefab
+- Assets/Prefabs/Items/Food/Pepper_Red.prefab
+- Assets/Prefabs/Items/Flowers/flower02.prefab
+- Assets/Prefabs/Items/Gifts/Envelope.prefab
+- Assets/Prefabs/Items/Food/Pumpkin.prefab
+- Assets/Prefabs/Items/Flowers/flower01.prefab
+- Assets/Prefabs/Items/Flowers/flower05.prefab
+- Assets/Prefabs/Items/Food/Tomato.prefab
+- Assets/Prefabs/Items/Trash/trash1.prefab
+- Assets/Prefabs/Items/Flowers/flower03.prefab
+- Assets/Prefabs/Items/Food/Lettuce_Whole.prefab
+- Assets/Prefabs/Items/Food/Turnip.prefab
+- Assets/Prefabs/Items/Food/Egg_Whole.prefab
+- Assets/Prefabs/Items/Trash/Twig.prefab
+- Assets/Prefabs/Items/Gifts/Gift1.prefab
+- Assets/Prefabs/Items/Trash/Soda.prefab
+Dependencies:
+- D:/Uni/Internship/Liminal VR/Unity Project/Produce Packer/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/Uni/Internship/Liminal VR/Unity Project/Produce Packer/OVRAssetBundles/OVRMasterBundle/asset_fbx0
